@@ -68,9 +68,10 @@ It saves time for marketing teams by generating **campaign strategies, post cont
 ---
 
 ## 👤 Author  
-**Mathavan M**  
-- 📧 Email: mathavanmukesh98@gmail.com  
-- 🌐 GitHub: [mathavanm](#)  
-- 💼 LinkedIn: [linkedin.com/in/mathavan-m](#)  
+**Maddy**  
+- 📧 Email: maddy998787@gmail.com  
+- 🌐 GitHub: https://github.com/Maddysher/Maddy_Sher  
+- 💼 LinkedIn: [linkedin.com/in/mathavan-m](#)
+- 🌐 website: https://maddysher.github.io/Portfolio/
 
 ---
